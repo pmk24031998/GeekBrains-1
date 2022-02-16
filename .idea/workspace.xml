@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7394082e-6d24-4769-a523-6a3ea4997f47" name="Changes" comment="" />
+    <list default="true" id="7394082e-6d24-4769-a523-6a3ea4997f47" name="Changes" comment="New structure2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +196,21 @@
       <option name="presentableId" value="Default" />
       <updated>1645007361000</updated>
     </task>
+    <task id="LOCAL-00001" summary="New structure">
+      <created>1645036525026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645036525026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New structure2">
+      <created>1645036684025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645036684025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,5 +224,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New structure" />
+    <MESSAGE value="New structure2" />
+    <option name="LAST_COMMIT_MESSAGE" value="New structure2" />
   </component>
 </project>
