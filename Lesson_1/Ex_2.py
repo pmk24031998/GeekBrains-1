@@ -10,3 +10,4 @@ if a // 60 > 0:
         print(min, ':', sek)
 else:
     print(sek)
+

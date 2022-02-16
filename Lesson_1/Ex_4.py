@@ -6,4 +6,5 @@ while a // 10 > 0:
     if m > n:
         n = m
     a = a // 10
+
 print(n)
