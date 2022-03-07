@@ -1,7 +1,7 @@
 def workers_statistics():
     workers = [['Сидоров ', '12000 \n'], ['Кукушкин ', '19000 \n'], ['Иванов ', '145000 \n'], ['Смирнов ', '80000']]
     try:
-        with open('test.txt', 'r+', encoding="utf-8") as file:
+        with open('ex.2.3.txt', 'r+', encoding="utf-8") as file:
             for i in range(len(workers)):
                 file.writelines(workers[i])
             l = file.readlines()

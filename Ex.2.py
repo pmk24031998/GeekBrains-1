@@ -1,6 +1,6 @@
 def count_info():
     try:
-        with open('test.txt', 'r', encoding="utf-8") as file:
+        with open('ex.2.3.txt', 'r', encoding="utf-8") as file:
             my_list = file.readlines()
             for i in range(len(my_list)):
                 new_l = my_list[i].split()
